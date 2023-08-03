@@ -1,4 +1,4 @@
-***Quasi_Floating_bulk_Resistor***
+#  Quasi_Floating_bulk_Resistor
 
 **Schematic**
 
